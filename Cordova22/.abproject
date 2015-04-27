@@ -1,0 +1,40 @@
+{
+  "ProjectName": "Cordova22",
+  "ProjectGuid": "67e34b15-abfe-4ced-8ff4-e78ea924d87e",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Cordova22",
+  "DisplayName": "Cordova22",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{fa79579c-9793-499a-a6d5-500f1470a593}",
+  "WP8ProductID": "{041181a4-9589-4d9d-9118-d5421c56fac2}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Cordova22",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
