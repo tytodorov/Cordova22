@@ -5,7 +5,7 @@
   "AppIdentifier": "com.telerik.Cordova22",
   "DisplayName": "Cordova22",
   "Author": "",
-  "Description": "",
+  "Description": "Cordova22",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
@@ -14,7 +14,6 @@
   ],
   "iOSBackgroundMode": [],
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
-  "FrameworkVersion": "3.5.0",
   "AndroidPermissions": [],
   "DeviceOrientations": [
     "Portrait",
@@ -36,5 +35,6 @@
     "ID_RESOLUTION_WVGA",
     "ID_RESOLUTION_WXGA",
     "ID_RESOLUTION_HD720P"
-  ]
+  ],
+  "TemplateAppName": "Cordova220"
 }
